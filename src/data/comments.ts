@@ -1,3 +1,4 @@
+
 export type CommentType = {
   username: string;
   userImagePath: string;
